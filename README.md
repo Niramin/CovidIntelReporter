@@ -24,8 +24,8 @@ Python, HTML, CSS, javascript
 
 
 Created by Team Seven:
-Shashwat Ratna
-Gourav Meher
-Rohith Kumar
-Siddhant Jain
+Shashwat Ratna,
+Gourav Meher,
+Rohith Kumar,
+Siddhant Jain.
  
