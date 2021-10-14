@@ -23,7 +23,7 @@ Programming Languages used:
 Python, HTML, CSS, javascript
 
 
-Created by Team Seven:
+Created by Team 7:
 Shashwat Ratna,
 Gourav Meher,
 Rohith Kumar,
